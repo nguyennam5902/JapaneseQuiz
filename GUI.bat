@@ -1,0 +1,1 @@
+start javaw --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp bin LessonGUI
